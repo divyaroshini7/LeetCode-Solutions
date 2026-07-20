@@ -54,6 +54,7 @@
 | [0140-word-break-ii](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -121,6 +122,7 @@
 | [0139-word-break](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
