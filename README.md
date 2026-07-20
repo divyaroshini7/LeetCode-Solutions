@@ -16,6 +16,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -39,6 +40,7 @@
 | [0076-minimum-window-substring](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -112,6 +114,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +143,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Memoization
 |  |
@@ -173,6 +177,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -192,4 +197,16 @@
 | [0724-find-pivot-index](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
