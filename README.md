@@ -32,6 +32,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Linked List
 |  |
@@ -75,6 +76,7 @@
 | [0058-length-of-last-word](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
