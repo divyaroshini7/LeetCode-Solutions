@@ -83,6 +83,7 @@
 | [0829-consecutive-numbers-sum](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0829-consecutive-numbers-sum) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
+| [2119-a-number-after-a-double-reversal](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2652-sum-multiples](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Recursion
