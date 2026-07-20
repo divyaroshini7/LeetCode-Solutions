@@ -88,6 +88,7 @@
 | [0189-rotate-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## String
 |  |
@@ -232,6 +234,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [2351-first-letter-to-appear-twice](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Interactive
