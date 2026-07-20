@@ -64,6 +64,7 @@
 | [0189-rotate-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2652-sum-multiples](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2652-sum-multiples) |
@@ -109,6 +110,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
