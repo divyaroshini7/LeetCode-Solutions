@@ -30,6 +30,7 @@
 | [0049-group-anagrams](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
@@ -157,4 +159,12 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
