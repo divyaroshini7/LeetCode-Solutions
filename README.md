@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0031-next-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0031-next-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
