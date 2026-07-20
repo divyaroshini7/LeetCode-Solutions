@@ -77,6 +77,7 @@
 | [0367-valid-perfect-square](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0507-perfect-number) |
+| [0829-consecutive-numbers-sum](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0829-consecutive-numbers-sum) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2652-sum-multiples](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -244,4 +245,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+## Enumeration
+|  |
+| ------- |
+| [0829-consecutive-numbers-sum](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0829-consecutive-numbers-sum) |
 <!---LeetCode Topics End-->
