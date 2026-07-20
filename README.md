@@ -66,6 +66,7 @@
 | [0292-nim-game](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2652-sum-multiples](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2652-sum-multiples) |
@@ -93,6 +94,7 @@
 | [0125-valid-palindrome](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -218,4 +220,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
