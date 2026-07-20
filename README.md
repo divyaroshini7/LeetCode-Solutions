@@ -20,6 +20,7 @@
 | [0189-rotate-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -56,6 +57,7 @@
 | [0146-lru-cache](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -199,6 +201,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
