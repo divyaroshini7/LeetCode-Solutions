@@ -44,6 +44,7 @@
 | [0066-plus-one](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0292-nim-game](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0292-nim-game) |
 ## Recursion
 |  |
 | ------- |
@@ -118,4 +119,12 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
