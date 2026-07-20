@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
