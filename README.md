@@ -43,6 +43,7 @@
 | [0347-top-k-frequent-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -97,6 +98,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -107,6 +109,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
