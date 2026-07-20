@@ -85,6 +85,7 @@
 | [1323-maximum-69-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Recursion
