@@ -15,6 +15,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0189-rotate-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -48,6 +49,7 @@
 | [0076-minimum-window-substring](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -112,6 +114,7 @@
 | [0076-minimum-window-substring](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0344-reverse-string](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
@@ -168,10 +171,12 @@
 | [0070-climbing-stairs](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0140-word-break-ii](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -189,6 +194,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -276,4 +282,5 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
