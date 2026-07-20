@@ -153,6 +153,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -217,6 +218,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [2351-first-letter-to-appear-twice](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Interactive
