@@ -91,6 +91,7 @@
 | [0202-happy-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
