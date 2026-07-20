@@ -21,6 +21,7 @@
 | [1732-find-the-highest-altitude](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1991-find-the-middle-index-in-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Search
 |  |
 | ------- |
