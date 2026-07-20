@@ -18,6 +18,7 @@
 | [0140-word-break-ii](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0303-range-sum-query-immutable](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -82,6 +83,7 @@
 | [0070-climbing-stairs](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -277,6 +279,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0829-consecutive-numbers-sum](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0829-consecutive-numbers-sum) |
 ## Greedy
 |  |
@@ -286,6 +289,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [2413-smallest-even-multiple](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 ## Trie
 |  |
