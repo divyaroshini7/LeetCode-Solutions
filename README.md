@@ -31,6 +31,7 @@
 | [1672-richest-customer-wealth](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [1929-concatenation-of-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Hash Table
@@ -250,6 +251,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Enumeration
 |  |
 | ------- |
