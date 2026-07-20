@@ -46,6 +46,7 @@
 | [0189-rotate-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0507-perfect-number) |
+| [2652-sum-multiples](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 ## Recursion
 |  |
 | ------- |
