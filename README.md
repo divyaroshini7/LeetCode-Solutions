@@ -45,6 +45,7 @@
 | [0070-climbing-stairs](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [2652-sum-multiples](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 ## Recursion
@@ -52,6 +53,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -129,4 +131,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
