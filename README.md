@@ -17,6 +17,7 @@
 | [0189-rotate-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1550-three-consecutive-odds](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
