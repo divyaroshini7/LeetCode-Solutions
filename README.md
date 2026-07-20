@@ -35,6 +35,7 @@
 | [0012-integer-to-roman](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
