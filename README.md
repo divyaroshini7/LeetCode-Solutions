@@ -15,6 +15,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [1672-richest-customer-wealth](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,4 +112,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
