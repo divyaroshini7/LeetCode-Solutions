@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
 | ------- |
