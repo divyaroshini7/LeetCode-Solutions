@@ -19,6 +19,7 @@
 | [0347-top-k-frequent-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -47,6 +48,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -211,6 +213,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
