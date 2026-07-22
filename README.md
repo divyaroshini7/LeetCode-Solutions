@@ -320,4 +320,8 @@
 | ------- |
 | [0139-word-break](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0140-word-break-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
