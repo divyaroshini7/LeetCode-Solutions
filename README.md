@@ -329,4 +329,5 @@
 | [0196-delete-duplicate-emails](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0577-employee-bonus) |
+| [0595-big-countries](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
