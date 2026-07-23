@@ -28,6 +28,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -69,6 +70,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -216,6 +218,7 @@
 | [0268-missing-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0621-task-scheduler](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Memoization
@@ -257,6 +260,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -283,6 +287,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -309,6 +314,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0621-task-scheduler](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [1323-maximum-69-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 ## Number Theory
 |  |
