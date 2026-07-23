@@ -332,4 +332,5 @@
 | [0595-big-countries](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/divyaroshini7/LeetCode-Solutions/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
